@@ -9,10 +9,10 @@
             <a href="#start" class="nav-link" style="font-size: 16px; font-style: bold;">Home</a>
           </li>
           <li>
-            <a href="#who-we-are" class="nav-link" style="font-size: 16px; font-style: bold;">Who we are?</a>
+            <a href="#aboutus" class="nav-link" style="font-size: 16px; font-style: bold;">About us</a>
           </li>
           <li>
-            <a href="#services" class="nav-link" style="font-size: 16px; font-style: bold;">Our Services</a>
+            <a href="#services" class="nav-link" style="font-size: 16px; font-style: bold;">Our products</a>
           </li>
           <li>
             <a href="#clients" class="nav-link" style="font-size: 16px; font-style: bold;">Clients</a>
