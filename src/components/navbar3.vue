@@ -100,7 +100,7 @@
           <span>Home</span></span
         ></a
       >
-      <a href="#who-we-are">
+      <a href="#aboutus">
         <span
           @click="isOpen = false"
           class="flex items-center p-4 hover:bg-indigo-500 hover:text-white"
@@ -119,7 +119,7 @@
               ></path>
             </svg>
           </span>
-          <span>Who we are?</span></span
+          <span>About us</span></span
         ></a
       >
       <a href="#services">
