@@ -14,7 +14,8 @@ phases:
     commands:
       - echo Build Phase
       - npm run build
-  post_build:
-    commands:
-      - echo PostBuild Phase
-      - aws s3 sync ./dist $S3_BUCKET
+artifacts:
+  files:
+    - "**/*"
+  discard-paths: no
+  base-directory: dist
