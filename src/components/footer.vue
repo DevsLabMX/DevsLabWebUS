@@ -23,7 +23,7 @@
                         <a href="#start" class="nav-link">Home</a>
                     </li>
                     <li>
-                        <a href="#who-we-are" class="nav-link">Who we are?</a>
+                        <a href="#who-we-are" class="nav-link">About us</a>
                     </li>
                     <li>
                         <a href="#services" class="nav-link">Our services</a>
@@ -55,7 +55,7 @@
             </div>
             <div class="col-span-3">
                 <section class="hero container max-w-screen-lg mx-auto pt-1/2 flex justify-center">
-                    <p class="text-white font-semibold">All rights reserved DevsLab© 2021</p>
+                    <p class="text-white font-semibold">All rights reserved DevsLab© 2022</p>
                 </section>
             </div>
         </div>
